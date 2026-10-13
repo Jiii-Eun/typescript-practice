@@ -1,4 +1,4 @@
-function object() {
+function ObjectArrayTuple() {
   // 객체
   let b: { readonly name: string; age?: number } = { name: "John" };
   let c: { name: string; age: number } = { name: "John", age: 20 };

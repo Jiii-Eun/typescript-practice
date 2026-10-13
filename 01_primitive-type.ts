@@ -7,7 +7,7 @@
 // symbol
 // bigint
 
-function main() {
+function PrimitiveType() {
   let a: number = 10;
   a = 5;
   // a = "5"; // string, error
